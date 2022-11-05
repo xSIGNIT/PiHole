@@ -1,0 +1,3 @@
+# Title: PiHole Youtube Ad Block List
+
+0.0.0.0 youtube.com.
