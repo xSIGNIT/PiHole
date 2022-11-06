@@ -5,7 +5,7 @@
 # ██╔═══╝░██║██╔══██║██║░░██║██║░░░░░██╔══╝░░  ██╔═══╝░██╔══██╗██║░╚═══██╗██║╚██╔╝██║ #	
 # ██║░░░░░██║██║░░██║╚█████╔╝███████╗███████╗  ██║░░░░░██║░░██║██║██████╔╝██║░╚═╝░██║ #	
 # ╚═╝░░░░░╚═╝╚═╝░░╚═╝░╚════╝░╚══════╝╚══════╝  ╚═╝░░░░░╚═╝░░╚═╝╚═╝╚═════╝░╚═╝░░░░░╚═╝ #
-#	Branch: TV Type / Block Youtube Advertisment 					                  #
+#	Branch: TV Type / Block Youtube Advertisment 				      #
 #======================================================================================
 
 #samsung
@@ -87,6 +87,7 @@ gamespromotion.samsungcloudsolution.com
 tvx.adgrx.com
 
 #Youtube
+rr1---sn-5ualdnsk.googlevideo.com
 r1---sn-n4v7knlz.googlevideo.com
 r2---sn-n4v7knlz.googlevideo.com
 r3---sn-n4v7knlz.googlevideo.com
