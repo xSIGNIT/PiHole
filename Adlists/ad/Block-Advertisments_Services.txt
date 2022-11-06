@@ -8,6 +8,9 @@
 #	Branch: Advertisment Blocking List				              #
 #======================================================================================
 
+a1931.dscgi3.akamai.net
+edgekey.net
+akamaiedge.net
 e-msedge.net
 e6987.dsce9.akamaiedge.net
 spush.meiyuankeji.top
