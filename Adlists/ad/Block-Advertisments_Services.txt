@@ -8,6 +8,10 @@
 #	Branch: Advertisment Blocking List				              #
 #======================================================================================
 
+static.ads.brave.com
+t-ring-fallbacks1.msedge.net
+t-ring.msedge.net
+azureedge.net
 0-000.store
 000123456789.online
 000123456789.site
