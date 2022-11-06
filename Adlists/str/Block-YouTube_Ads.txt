@@ -86,6 +86,9 @@ samsungads.com
 gamespromotion.samsungcloudsolution.com
 tvx.adgrx.com
 t.pluto.tv
+images.pluto.tv
+sp.pluto.tv
+service-stitcher-ipv4.clusters.pluto.tv
 
 #Youtube
 r4.sn-5uaeznls.googlevideo.com
