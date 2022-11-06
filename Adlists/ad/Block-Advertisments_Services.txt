@@ -8,6 +8,10 @@
 #	Branch: Advertisment Blocking List				              #
 #======================================================================================
 
+spush.meiyuankeji.top
+e673.dsce9.akamaiedge.net
+syus002.l040z.com
+syus003.l040z.com
 static.ads.brave.com
 t-ring-fallbacks1.msedge.net
 t-ring.msedge.net

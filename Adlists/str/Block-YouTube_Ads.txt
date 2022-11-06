@@ -85,8 +85,11 @@ ads.aimitv.com
 samsungads.com
 gamespromotion.samsungcloudsolution.com
 tvx.adgrx.com
+t.pluto.tv
 
 #Youtube
+r5---sn-5ualdnz7.googlevideo.com
+r1.sn-5uaeznlz.googlevideo.com
 rr1---sn-5ualdnsk.googlevideo.com
 rr5---sn-5uaeznl6.googlevideo.com
 r1---sn-n4v7knlz.googlevideo.com
