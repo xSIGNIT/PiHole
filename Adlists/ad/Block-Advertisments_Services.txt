@@ -8,6 +8,7 @@
 #	Branch: Advertisment Blocking List				              #
 #======================================================================================
 
+e6987.dsce9.akamaiedge.net
 spush.meiyuankeji.top
 e673.dsce9.akamaiedge.net
 syus002.l040z.com
